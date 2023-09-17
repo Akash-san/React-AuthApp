@@ -12,7 +12,7 @@ app.use(cookieSession(
     {
         name: "session",
         keys: ["lama"],
-        maxAge: 24 * 60 * 60 * 100
+        maxAge: 24 * 60 * 60 * 1000
     }
 ))
 app.use(passport.initialize());
@@ -26,6 +26,6 @@ app.use(cors({
 
 app.use("/auth", authRoute)
 
-app.listen("5000", () => {
+app.listen(5000, () => {
     console.log("running")
 })
