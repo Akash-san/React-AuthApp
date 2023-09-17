@@ -2,6 +2,12 @@
 
 This is a web application that utilizes Passport.js for authentication with various social logins (Google, GitHub, Facebook, and Amazon). The backend is built with Node.js and Express, while the frontend is a static webpage developed using React.
 
+![Screenshot (441)](https://github.com/Akash-san/React-AuthApp/assets/98251561/17a8059a-f855-4928-97a9-767c0cabddb5)
+
+
+![Screenshot (442)](https://github.com/Akash-san/React-AuthApp/assets/98251561/88a2fc4a-b0e3-4bff-aae8-895f53ac1f7c)
+
+
 ## Features
 
 - User authentication with various social logins.
