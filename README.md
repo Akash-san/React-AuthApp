@@ -16,7 +16,7 @@ Before running the application, make sure you have the following dependencies in
 
 - Node.js and npm for the backend.
 - React and npm for the frontend.
-- MongoDB or another database if you plan to store user data.
+
 
 ## Backend
 
@@ -52,7 +52,7 @@ FACEBOOK_APP_ID=your_facebook_app_id
 FACEBOOK_APP_SECRET=your_facebook_app_secret
 AMAZON_APP_ID=your_amazon_app_id
 AMAZON_APP_SECRET=your_amazon_app_secret
-SESSION_SECRET=your_session_secret
+
 ```
 
 ### Starting the Server: Start the backend server by running:
